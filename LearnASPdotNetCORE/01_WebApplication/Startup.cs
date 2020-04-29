@@ -46,22 +46,22 @@ namespace _01_WebApplication
     {
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
-
+            app.UseMiddleware<TokenMiddleware>("5555");
             app.Run(async (context) =>
             {
-                string host = context.Request.Host.Value;
-                string path = context.Request.Path;
-                string query = context.Request.QueryString.Value;
-                context.Response.ContentType = ("text/html ; charset = utf-8 ");
-                context.Response.WriteAsync($"<h3>ContextHost: {host}</h3>" +
-                                            $"<h3>ContextPath: {path}</h3>" +
-                    $"<h3>ContextQuery: {query}</h3>");
+                context.Response.WriteAsync("Incha axchi");
             });
 
+        }
+        private async Task Handle(HttpContext context)
+        {
+            string host = context.Request.Host.Value;
+            string path = context.Request.Path;
+            string query = context.Request.QueryString.Value;
+            context.Response.ContentType = ("text/html ; charset = utf-8 ");
+            await context.Response.WriteAsync($"<h3>ContextHost: {host}</h3>" +
+                                        $"<h3>ContextPath: {path}</h3>" +
+                $"<h3>ContextQuery: {query}</h3>");
         }
     }
 }
