@@ -16,16 +16,16 @@ namespace _01_WebApplication
     {
         public static void Main(string[] args)
         {
-            //CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args).Build().Run();
 
             //BuildWebHost(args).Run();//my method
 
-            using (var host = WebHost.Start("http://localhost:8080",
-                c => c.Response.WriteAsync("Hajox Vahe")))
-            {
-                Console.WriteLine("Application has been started");
-                host.WaitForShutdown();
-            }
+            //using (var host = WebHost.Start("http://localhost:8080",
+            //    c => c.Response.WriteAsync("Hajox Vahe")))
+            //{
+            //    Console.WriteLine("Application has been started");
+            //    host.WaitForShutdown();
+            //}
 
 
             //    var host = new WebHostBuilder()
