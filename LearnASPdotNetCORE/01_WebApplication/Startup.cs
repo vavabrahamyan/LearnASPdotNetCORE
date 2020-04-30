@@ -33,7 +33,7 @@ namespace _01_WebApplication
     {
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseMiddleware<TokenMiddleware>("5555");
+            app.UseStaticFiles();
             app.Run(async (context) =>
             {
                 context.Response.WriteAsync("Incha axchi");
