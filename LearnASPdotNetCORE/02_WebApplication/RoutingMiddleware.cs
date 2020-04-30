@@ -30,7 +30,6 @@ namespace _02_WebApplication
                await  context.Response.WriteAsync("<h3>Go home now!!!  Please</h3>");
                  context.Response.StatusCode = 403;
             }
-            await _next(context);
         }
     }
     public static class AppExtentions
