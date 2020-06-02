@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoftBlogLeranAspNetCoreMVC", "LoftBlogLeranAspNetCoreMVC\LoftBlogLeranAspNetCoreMVC.csproj", "{693AB4B6-E9B9-45FB-B5DE-622AE29B1961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693AB4B6-E9B9-45FB-B5DE-622AE29B1961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693AB4B6-E9B9-45FB-B5DE-622AE29B1961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693AB4B6-E9B9-45FB-B5DE-622AE29B1961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693AB4B6-E9B9-45FB-B5DE-622AE29B1961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD774AA-56F2-4999-A9A0-7971F661C6D0}
+	EndGlobalSection
+EndGlobal
