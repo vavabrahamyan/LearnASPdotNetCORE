@@ -10,8 +10,6 @@ C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLe
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\bin\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.Views.dll
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\bin\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.Views.pdb
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.csprojAssemblyReference.cache
-C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.RazorAssemblyInfo.cache
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.RazorAssemblyInfo.cs
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.AssemblyInfoInputs.cache
@@ -75,3 +73,6 @@ C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLe
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\bin\Debug\netcoreapp3.1\DataLayer.dll
 C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# & GitHub\LearnASPdotNetCORE\AspNetCoreMVC4Me\LoftBlogLeranAspNetCoreMVC\obj\Debug\netcoreapp3.1\LoftBlogLeranAspNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
